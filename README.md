@@ -4,4 +4,4 @@ The script simulates fluid dynamics and physics using a ASCII characters. Basis 
 
 Inputs taken from other fluid simulators.
 
-Based on C++ and C scripts
+Based on C++ and 
