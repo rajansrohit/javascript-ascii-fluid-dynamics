@@ -1,4 +1,4 @@
-var accuracy = 1;
+var accuracy = 2;
 var Gravity = 1;
 var Pressure = 4;
 var Viscosity = 4;
