@@ -129,6 +129,4 @@ function run() {
     init();
     interval = setInterval(nextframe, 1000 / 60);
 }
-function stop() {
-    clearInterval(interval);
-}
+
