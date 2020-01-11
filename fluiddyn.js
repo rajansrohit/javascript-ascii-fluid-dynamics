@@ -3,6 +3,7 @@ var Gravity = 1;
 var Pressure = 4;
 var Viscosity = 4;
 var w = 79 * accuracy, h = 25 * accuracy, scale = 1;
+
 var particle = (function () {
     function particle(posx, posy, wallflag) {
         this.posx = posx;
@@ -16,7 +17,6 @@ var particle = (function () {
     }
     return particle;
 })();
-
 var a = [];
 canvas.width = w * scale;
 canvas.height = h * scale;
