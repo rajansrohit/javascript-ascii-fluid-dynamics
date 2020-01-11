@@ -16,7 +16,7 @@ var particle = (function () {
     }
     return particle;
 })();
-;
+
 var a = [];
 canvas.width = w * scale;
 canvas.height = h * scale;
