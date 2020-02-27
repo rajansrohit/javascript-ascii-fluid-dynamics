@@ -26,6 +26,7 @@ ctx.fillStyle = "rgba(0,0,0,0.75)";
 var interval, frameid = 0, lastdate, lastframe;
 previewarea.cols = w;
 previewarea.rows = h;
+
 function ord(c) {
     return c.charCodeAt(0);
 }
