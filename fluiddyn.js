@@ -30,6 +30,7 @@ previewarea.rows = h;
 function ord(c) {
     return c.charCodeAt(0);
 }
+
 function chr(c) {
     return String.fromCharCode(c);
 }
